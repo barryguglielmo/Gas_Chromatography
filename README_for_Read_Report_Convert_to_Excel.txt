@@ -10,9 +10,9 @@
 
 ##  HOW TO RUN THIS CODE ______________________________________________________________________________
 ##  So long as you have python 3.6 or later downloaded you will only have to download one module called
-##  openpyxl. To download openpyxl open a command prompt (cmd) ?this can be found by typing “cmd” in your
-##  computers search bar? In your command prompt type “pip install openpyxl”, if prompted that other modules
-##  are necessary or other modules have not been found do the same “pip install” method for those modules.
+##  openpyxl. To download openpyxl open a command prompt (cmd) ?this can be found by typing â€œcmdâ€ in your
+##  computers search bar? In your command prompt type â€œpip install openpyxlâ€, if prompted that other modules
+##  are necessary or other modules have not been found do the same â€œpip installâ€ method for those modules.
 ##
 ##  Right Click File Run with IDLE 3.6.3 or Later. When the IDLE screen shows up simply press F5, or go to the
 ##  Run -> Run Module on the top of the screen. When prompted by python shell type in file name. For example
